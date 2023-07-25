@@ -10,10 +10,10 @@ def tripple_space(str)
   puts(str.chars.join('   ').upcase)
 end
 
-text = 'Hello'
+message = 'Hello'
 
-upper_case(text)
+upper_case(message)
 
-space(text)
+space(message)
 
-tripple_space(text)
+tripple_space(message)
