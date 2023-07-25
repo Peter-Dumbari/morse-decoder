@@ -3,7 +3,6 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 To-do-list ](#-to-do-list-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,7 +26,7 @@
 
 # 📖 STRING DECODER<a name="about-project"></a>
 
-**Space Traveler's Hub**
+**string decoder**
 
 ## 🛠 Built With <a name="built-with"></a>
 
